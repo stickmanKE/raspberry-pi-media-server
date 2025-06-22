@@ -1,7 +1,6 @@
 # Raspberry Pi Media Server
 
-This project is a complete self-hosted media server setup using a Raspberry Pi. It uses Docker and Docker Compose to run various services like torrent clients, media organizers, and streaming platforms — all optimized for low power consumption and 24/7 operation.
-
+A simple, lightweight, and ARM-friendly Docker-based media server stack built for Raspberry Pi.
 ## 🧰 Features
 
 - **qBittorrent** – Torrent downloader with a sleek web interface
@@ -11,6 +10,21 @@ This project is a complete self-hosted media server setup using a Raspberry Pi. 
 - **Homepage Dashboard** – Custom dashboard for managing services
 - **Tailscale / Headscale** – Secure remote access
 - **[Add your tools here]**
+
+## 📷 Screenshot
+
+![Media Dashboard Screenshot](assets/dashboard.png) 
+
+## 🧰 Included Services
+
+| Service     | Purpose                        | Port |
+|-------------|--------------------------------|------|
+| Homepage    | Dashboard UI                   | 3000 |
+| qBittorrent | Torrent Client + VueTorrent UI | 8080 |
+| Sonarr      | TV Show Management             | 8989 |
+| Radarr      | Movie Management               | 7878 |
+| Jackett     | Indexer Proxy for Torrent Sites| 9117 |
+| Pi-hole     | Network-wide Ad Blocking       | 80/53/443 |
 
 ## 📦 Hardware Requirements
 
