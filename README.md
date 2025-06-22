@@ -9,11 +9,10 @@ A simple, lightweight, and ARM-friendly Docker-based media server stack built fo
 - **Jellyfin / Plex** – Stream media across your devices
 - **Homepage Dashboard** – Custom dashboard for managing services
 - **Tailscale / Headscale** – Secure remote access
-- **[Add your tools here]**
 
 ## 📷 Screenshot
 
-![Media Dashboard Screenshot](assets/dashboard.png) 
+![Media Dashboard Screenshot](assets/homepage.png) 
 
 ## 🧰 Included Services
 
