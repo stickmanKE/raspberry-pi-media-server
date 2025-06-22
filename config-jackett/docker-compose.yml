@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  jackett:
+    image: lscr.io/linuxserver/jackett:latest
+    container_name: jackett
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Africa/Nairobi
+    volumes:
+      - ./config:/config
+      - /mnt/hdd1:/movies
+      - /mnt/hdd1:/series
+      - /mnt/hdd1:/anime
+    ports:
+      - "9117:9117"
+    restart: unless-stopped

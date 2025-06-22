@@ -1,0 +1,513 @@
+(W) 2025-06-08T12:41:08 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-08T12:41:08 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-06-08T12:41:13 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2025-06-08T12:41:38 - Detected external IP. IP: "41.90.34.84"
+(N) 2025-06-08T12:45:52 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-08T12:45:53 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-08T12:46:18 - System wake-up event detected. Re-announcing to all the trackers...
+(I) 2025-06-09T09:20:23 - Detected external IP. IP: "41.90.37.228"
+(N) 2025-06-09T19:38:56 - qBittorrent v5.0.4 started. Process ID: 141
+(N) 2025-06-09T19:38:56 - Using config directory: /config/qBittorrent
+(N) 2025-06-09T19:38:56 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-09T19:38:56 - Peer ID: "-qB5040-"
+(I) 2025-06-09T19:38:56 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-09T19:38:56 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-09T19:38:56 - Local Peer Discovery support: ON
+(I) 2025-06-09T19:38:56 - Peer Exchange (PeX) support: ON
+(I) 2025-06-09T19:38:56 - Anonymous mode: OFF
+(I) 2025-06-09T19:38:56 - Encryption support: ON
+(I) 2025-06-09T19:38:56 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-09T19:38:56 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-09T19:38:56 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-06-09T19:38:56 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-06-09T19:38:56 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-09T19:38:56 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-09T19:38:56 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-09T19:38:56 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-09T19:38:56 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-09T19:38:56 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-09T19:38:56 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-09T19:38:56 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(I) 2025-06-09T19:38:56 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-06-09T19:38:56 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-09T19:38:56 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-09T19:38:56 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-06-09T19:38:56 - Detected external IP. IP: "41.90.33.228"
+(I) 2025-06-09T19:39:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(I) 2025-06-09T19:39:00 - Successfully updated IP geolocation database.
+(N) 2025-06-09T19:39:34 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-09T19:39:35 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-09T21:56:23 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-09T21:56:41 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-09T22:31:14 - Added new torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(I) 2025-06-09T22:37:47 - Found Python executable. Name: "python3". Version: "3.12.10"
+(N) 2025-06-09T22:40:17 - Added new torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-09T22:40:18 - Added new torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-09T23:35:29 - Torrent download finished. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-09T23:38:03 - Torrent download finished. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-10T06:43:48 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-10T06:44:01 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-10T08:29:17 - Torrent download finished. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-11T00:08:42 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-11T00:08:54 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-11T10:13:30 - qBittorrent v5.0.4 started. Process ID: 142
+(N) 2025-06-11T10:13:30 - Using config directory: /config/qBittorrent
+(N) 2025-06-11T10:13:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-11T10:13:30 - Peer ID: "-qB5040-"
+(I) 2025-06-11T10:13:30 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-11T10:13:30 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-11T10:13:30 - Local Peer Discovery support: ON
+(I) 2025-06-11T10:13:30 - Peer Exchange (PeX) support: ON
+(I) 2025-06-11T10:13:30 - Anonymous mode: OFF
+(I) 2025-06-11T10:13:30 - Encryption support: ON
+(I) 2025-06-11T10:13:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-11T10:13:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-11T10:13:30 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-06-11T10:13:30 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-06-11T10:13:30 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-11T10:13:30 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-11T10:13:31 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(I) 2025-06-11T10:13:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(N) 2025-06-11T10:13:32 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-11T10:13:32 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-11T10:13:32 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-06-11T10:13:32 - Detected external IP. IP: "41.90.33.228"
+(N) 2025-06-11T10:14:01 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-11T10:14:01 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-11T23:10:19 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-11T23:10:25 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-11T23:20:18 - Added new torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-11T23:21:12 - Added new torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-12T00:12:06 - Torrent download finished. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-12T00:34:48 - Torrent download finished. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-12T06:54:35 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-12T06:54:44 - WebAPI login success. IP: ::ffff:192.168.100.4
+(I) 2025-06-12T16:10:51 - Detected external IP. IP: "41.90.32.5"
+(N) 2025-06-12T23:33:54 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-13T10:31:31 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-06-13T10:31:31 - Using config directory: /config/qBittorrent
+(N) 2025-06-13T10:31:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-13T10:31:31 - Peer ID: "-qB5040-"
+(I) 2025-06-13T10:31:31 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-13T10:31:31 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-13T10:31:31 - Local Peer Discovery support: ON
+(I) 2025-06-13T10:31:31 - Peer Exchange (PeX) support: ON
+(I) 2025-06-13T10:31:31 - Anonymous mode: OFF
+(I) 2025-06-13T10:31:31 - Encryption support: ON
+(I) 2025-06-13T10:31:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-13T10:31:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-13T10:31:31 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-06-13T10:31:31 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-06-13T10:31:31 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-13T10:31:31 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-13T10:31:31 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(I) 2025-06-13T10:31:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(N) 2025-06-13T10:31:31 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-13T10:31:31 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-13T10:31:31 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-06-13T10:31:32 - Detected external IP. IP: "41.90.32.5"
+(N) 2025-06-13T10:32:02 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-13T10:32:02 - WebAPI login success. IP: ::ffff:172.17.0.1
+(I) 2025-06-13T16:02:46 - Detected external IP. IP: "41.90.41.158"
+(N) 2025-06-13T16:44:56 - Added new torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-13T16:57:39 - Torrent download finished. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-14T00:12:40 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-14T00:12:54 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-14T00:20:21 - Added new torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19"
+(N) 2025-06-14T00:27:12 - Torrent download finished. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19"
+(N) 2025-06-14T06:56:24 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-14T06:57:24 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-14T06:58:30 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/downloads/software"
+(N) 2025-06-14T06:58:30 - Start moving torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/downloads/software"
+(N) 2025-06-14T06:58:30 - Moved torrent successfully. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/downloads/software"
+(N) 2025-06-14T06:58:44 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads/software". Destination: "/downloads"
+(N) 2025-06-14T06:58:44 - Start moving torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/downloads"
+(N) 2025-06-14T06:58:44 - Moved torrent successfully. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/downloads"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(N) 2025-06-14T07:00:38 - Torrent stopped. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-14T09:26:46 - qBittorrent v5.0.4 started. Process ID: 144
+(N) 2025-06-14T09:26:46 - Using config directory: /config/qBittorrent
+(N) 2025-06-14T09:26:46 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-14T09:26:46 - Peer ID: "-qB5040-"
+(I) 2025-06-14T09:26:46 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-14T09:26:46 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-14T09:26:46 - Local Peer Discovery support: ON
+(I) 2025-06-14T09:26:46 - Peer Exchange (PeX) support: ON
+(I) 2025-06-14T09:26:46 - Anonymous mode: OFF
+(I) 2025-06-14T09:26:46 - Encryption support: ON
+(I) 2025-06-14T09:26:46 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-14T09:26:46 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-14T09:26:46 - Successfully listening on IP. IP: "172.17.0.4". Port: "TCP/6881"
+(I) 2025-06-14T09:26:46 - Successfully listening on IP. IP: "172.17.0.4". Port: "UTP/6881"
+(I) 2025-06-14T09:26:46 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-14T09:26:46 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(N) 2025-06-14T09:26:46 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(I) 2025-06-14T09:26:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(N) 2025-06-14T09:26:47 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-14T09:26:47 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-14T09:26:47 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-06-14T09:26:47 - Detected external IP. IP: "41.90.41.158"
+(N) 2025-06-14T09:27:16 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-14T09:27:16 - WebAPI login success. IP: ::ffff:172.17.0.1
+(I) 2025-06-14T14:49:51 - Detected external IP. IP: "41.90.46.119"
+(N) 2025-06-14T16:26:32 - Added new torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-14T16:59:58 - Torrent download finished. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-14T17:24:44 - qBittorrent v5.0.4 started. Process ID: 142
+(N) 2025-06-14T17:24:44 - Using config directory: /config/qBittorrent
+(N) 2025-06-14T17:24:44 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-14T17:24:44 - Peer ID: "-qB5040-"
+(I) 2025-06-14T17:24:44 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-14T17:24:44 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-14T17:24:44 - Local Peer Discovery support: ON
+(I) 2025-06-14T17:24:44 - Peer Exchange (PeX) support: ON
+(I) 2025-06-14T17:24:44 - Anonymous mode: OFF
+(I) 2025-06-14T17:24:44 - Encryption support: ON
+(I) 2025-06-14T17:24:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-14T17:24:44 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-14T17:24:44 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-06-14T17:24:44 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-06-14T17:24:44 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-14T17:24:44 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(N) 2025-06-14T17:24:44 - Restored torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19"
+(I) 2025-06-14T17:24:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(N) 2025-06-14T17:24:45 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-14T17:24:45 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-14T17:24:45 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-06-14T17:25:15 - Detected external IP. IP: "41.90.46.123"
+(N) 2025-06-14T18:57:35 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-14T18:57:36 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-14T18:58:00 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2025-06-15T00:54:00 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-15T00:54:48 - WebAPI login success. IP: ::ffff:192.168.100.4
+(N) 2025-06-15T12:25:30 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-15T12:31:03 - WebAPI login success. IP: ::ffff:192.168.100.3
+(N) 2025-06-15T12:49:27 - Added new torrent. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA"
+(N) 2025-06-15T12:49:55 - Torrent stopped. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-15T13:08:25 - WebAPI login success. IP: ::ffff:192.168.100.3
+(N) 2025-06-15T13:20:04 - WebAPI login success. IP: ::ffff:192.168.100.3
+(N) 2025-06-15T13:40:09 - Torrent download finished. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA"
+(N) 2025-06-15T21:07:54 - WebAPI login success. IP: ::ffff:192.168.100.3
+(N) 2025-06-15T21:11:53 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Start moving torrent. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/incomplete"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Failed to enqueue torrent move. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: torrent is currently moving to the destination
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/incomplete"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/incomplete"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Torrent move canceled. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-15T21:49:16 - Enqueued torrent move. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Common.Side.Effects.S01.1080p.WEBRip.x265-KONTRAST storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Destination: "/incomplete/movies"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Sinners (2025) REPACK DS4K 1080p MA WEBRip AV1 Opus 5.1 [RAV1NE] storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot S01E06 1080p WEB h264-ETHEL storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/incomplete"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/incomplete". Reason: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19 storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Destination: "/incomplete/movies"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "The.Accountant.UKR.ENG.2016.1080p.BluRay.Remux.AVC.DTS-HD.MA.7.1 .mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Destination: "/incomplete/movies"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Destination: "/incomplete/movies"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX] storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:17 - Start moving torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Destination: "/incomplete/series"
+(W) 2025-06-15T21:49:17 - Failed to move torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T21:49:41 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/software"
+(N) 2025-06-15T21:49:41 - Start moving torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/software"
+(W) 2025-06-15T21:49:41 - Failed to move torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/software". Reason: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19 storage move failed. mkdir (): Permission denied"
+(N) 2025-06-15T23:07:07 - WebAPI login success. IP: ::ffff:172.17.0.1
+(W) 2025-06-16T10:10:11 - File error alert. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". File: "/downloads/movies/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA.jpg". Reason: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA file_open (/downloads/movies/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA.jpg) error: No such file or directory"
+(N) 2025-06-17T04:17:56 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-06-17T04:17:56 - Using config directory: /config/qBittorrent
+(N) 2025-06-17T04:17:56 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-17T04:17:57 - Peer ID: "-qB5040-"
+(I) 2025-06-17T04:17:57 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-17T04:17:57 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-17T04:17:57 - Local Peer Discovery support: ON
+(I) 2025-06-17T04:17:57 - Peer Exchange (PeX) support: ON
+(I) 2025-06-17T04:17:57 - Anonymous mode: OFF
+(I) 2025-06-17T04:17:57 - Encryption support: ON
+(I) 2025-06-17T04:17:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-17T04:17:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-17T04:17:57 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-06-17T04:17:57 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-06-17T04:17:57 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-17T04:17:57 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(N) 2025-06-17T04:17:57 - Restored torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19"
+(I) 2025-06-17T04:17:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(N) 2025-06-17T04:17:57 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-17T04:17:57 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-17T04:17:57 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-06-17T04:17:57 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". Reason: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA fast resume rejected. file_stat(/downloads/movies/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA.jpg): mismatching file size"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/software"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/software"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-17T04:17:59 - Enqueued torrent move. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/software". Reason: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19 storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Destination: "/incomplete/movies"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot S01E06 1080p WEB h264-ETHEL storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Destination: "/incomplete/movies"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX] storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Destination: "/incomplete/movies"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "The.Accountant.UKR.ENG.2016.1080p.BluRay.Remux.AVC.DTS-HD.MA.7.1 .mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Destination: "/incomplete/movies"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Sinners (2025) REPACK DS4K 1080p MA WEBRip AV1 Opus 5.1 [RAV1NE] storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Common.Side.Effects.S01.1080p.WEBRip.x265-KONTRAST storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:17:59 - Start moving torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Destination: "/incomplete/series"
+(W) 2025-06-17T04:17:59 - Failed to move torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-17T04:18:36 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-17T04:18:37 - WebAPI login success. IP: ::ffff:172.17.0.1
+(I) 2025-06-17T05:16:06 - Detected external IP. IP: "41.90.42.103"
+(N) 2025-06-17T05:16:24 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2025-06-18T02:53:40 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-06-18T02:53:40 - Using config directory: /config/qBittorrent
+(N) 2025-06-18T02:53:40 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-18T02:53:40 - Peer ID: "-qB5040-"
+(I) 2025-06-18T02:53:40 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-18T02:53:40 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-18T02:53:40 - Local Peer Discovery support: ON
+(I) 2025-06-18T02:53:40 - Peer Exchange (PeX) support: ON
+(I) 2025-06-18T02:53:40 - Anonymous mode: OFF
+(I) 2025-06-18T02:53:40 - Encryption support: ON
+(I) 2025-06-18T02:53:40 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-18T02:53:40 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-18T02:53:40 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-06-18T02:53:40 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-06-18T02:53:40 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-18T02:53:40 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki"
+(N) 2025-06-18T02:53:40 - Restored torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19"
+(I) 2025-06-18T02:53:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Jun 1 04:26:17 2025.
+(N) 2025-06-18T02:53:41 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-06-18T02:53:41 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-06-18T02:53:41 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-06-18T02:53:41 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA". Reason: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA fast resume rejected. file_stat(/downloads/movies/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA/Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA.jpg): mismatching file size"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/software"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Destination: "/software"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series"
+(N) 2025-06-18T02:53:42 - Enqueued torrent move. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19". Source: "/downloads". Destination: "/software". Reason: "Windows XP Professional SP3 x86 - Black Edition 2015.4.19 storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot S01E06 1080p WEB h264-ETHEL storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Destination: "/incomplete/movies"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX] storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot.S01E06.1080p.WEB.H264-SuccessfulCrab.mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Destination: "/incomplete/movies"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "The Accountant UKR ENG 2016 1080p BluRay Remux AVC DTS HD MA 7 1 mkv". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "The.Accountant.UKR.ENG.2016.1080p.BluRay.Remux.AVC.DTS-HD.MA.7.1 .mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Ki". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E02 Eye Contact REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Destination: "/incomplete/movies"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Murderbot.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Destination: "/incomplete/movies"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE". Source: "/downloads/movies". Destination: "/incomplete/movies". Reason: "Sinners (2025) REPACK DS4K 1080p MA WEBRip AV1 Opus 5.1 [RAV1NE] storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "Common.Side.Effects.S01.1080p.WEBRip.x265-KONTRAST storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T02:53:42 - Start moving torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Destination: "/incomplete/series"
+(W) 2025-06-18T02:53:42 - Failed to move torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26". Source: "/downloads/series". Destination: "/incomplete/series". Reason: "www.UIndex.org    -    Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 264-Kitsune storage move failed. mkdir (): Permission denied"
+(N) 2025-06-18T03:17:38 - WebAPI login success. IP: ::ffff:172.17.0.1
+(I) 2025-06-18T03:17:39 - Detected external IP. IP: "41.90.35.195"
+(N) 2025-06-18T03:17:41 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-06-18T03:18:05 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2025-06-18T21:52:56 - qBittorrent v5.0.4 started. Process ID: 144
+(N) 2025-06-18T21:52:56 - Using config directory: /config/qBittorrent
+(N) 2025-06-18T21:52:56 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-06-18T21:52:57 - Peer ID: "-qB5040-"
+(I) 2025-06-18T21:52:57 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-06-18T21:52:57 - Distributed Hash Table (DHT) support: ON
+(I) 2025-06-18T21:52:57 - Local Peer Discovery support: ON
+(I) 2025-06-18T21:52:57 - Peer Exchange (PeX) support: ON
+(I) 2025-06-18T21:52:57 - Anonymous mode: OFF
+(I) 2025-06-18T21:52:57 - Encryption support: ON
+(I) 2025-06-18T21:52:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-06-18T21:52:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-06-18T21:52:57 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-06-18T21:52:57 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-06-18T21:52:57 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-06-18T21:52:57 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Final Destination Bloodlines 2025 1080p WEB-DL DDP5 1 H 264-AYA"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Sinners 2025 REPACK DS4K 1080p MA WEBRip AV1 Opus 5 1 RAV1NE"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Common Side Effects S01 1080p WEBRip x265 KONTRAST"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Murderbot S01E03 Risk Assessment REPACK 1080p ATVP WEB-DL DDP5 1 Atmos H 26"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Murderbot S01E07 1080p WEB H264-SuccessfulCrab"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "The Accountant 2 2025 1080p WebRip Repack Read Note X264 COLLECTi"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Murderbot S01E04 Escape Velocity Protocol REPACK 1080p ATVP WEB-DL DDP5 1 A"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Murderbot S01E05 1080p WEB h264 ETHEL EZTV"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Murderbot S01E06 1080p WEB h264-ETHEL"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "Predator Killer Of Killers (2025) [1080p] [WEBRip] [5.1] [YTS.MX]"
+(N) 2025-06-18T21:52:57 - Restored torrent. Torrent: "MobLand.S01.COMPLETE.1080p.WEBRip.x265-PGW"

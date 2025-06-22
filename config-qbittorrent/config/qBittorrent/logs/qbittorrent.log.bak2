@@ -1,0 +1,483 @@
+(W) 2025-05-21T05:17:36 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-21T05:18:07 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-21T05:18:08 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-21T17:17:34 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-05-21T17:17:34 - Using config directory: /config/qBittorrent
+(N) 2025-05-21T17:17:35 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-21T17:17:35 - Peer ID: "-qB5040-"
+(I) 2025-05-21T17:17:35 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-21T17:17:35 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-21T17:17:35 - Local Peer Discovery support: ON
+(I) 2025-05-21T17:17:35 - Peer Exchange (PeX) support: ON
+(I) 2025-05-21T17:17:35 - Anonymous mode: OFF
+(I) 2025-05-21T17:17:35 - Encryption support: ON
+(I) 2025-05-21T17:17:35 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-21T17:17:35 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-21T17:17:35 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-05-21T17:17:35 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-05-21T17:17:35 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-21T17:17:35 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-21T17:17:35 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-21T17:17:35 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(W) 2025-05-21T17:17:35 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(N) 2025-05-21T17:17:35 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-21T17:17:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-21T17:17:35 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-21T17:17:35 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-21T17:17:35 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-05-21T17:17:35 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(W) 2025-05-21T17:17:36 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(W) 2025-05-21T17:17:36 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-21T17:18:07 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-21T17:18:08 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-21T21:17:53 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-05-21T21:17:53 - Using config directory: /config/qBittorrent
+(N) 2025-05-21T21:17:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-21T21:17:54 - Peer ID: "-qB5040-"
+(I) 2025-05-21T21:17:54 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-21T21:17:54 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-21T21:17:54 - Local Peer Discovery support: ON
+(I) 2025-05-21T21:17:54 - Peer Exchange (PeX) support: ON
+(I) 2025-05-21T21:17:54 - Anonymous mode: OFF
+(I) 2025-05-21T21:17:54 - Encryption support: ON
+(I) 2025-05-21T21:17:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-21T21:17:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-21T21:17:54 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-05-21T21:17:54 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-05-21T21:17:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-21T21:17:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(W) 2025-05-21T21:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(W) 2025-05-21T21:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-21T21:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-21T21:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(N) 2025-05-21T21:17:54 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-21T21:17:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-21T21:17:54 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-21T21:17:54 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-21T21:17:54 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-05-21T21:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-21T21:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-21T21:18:27 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-21T21:18:27 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-22T23:17:54 - qBittorrent v5.0.4 started. Process ID: 142
+(N) 2025-05-22T23:17:54 - Using config directory: /config/qBittorrent
+(N) 2025-05-22T23:17:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-22T23:17:54 - Peer ID: "-qB5040-"
+(I) 2025-05-22T23:17:54 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-22T23:17:54 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-22T23:17:54 - Local Peer Discovery support: ON
+(I) 2025-05-22T23:17:54 - Peer Exchange (PeX) support: ON
+(I) 2025-05-22T23:17:54 - Anonymous mode: OFF
+(I) 2025-05-22T23:17:54 - Encryption support: ON
+(I) 2025-05-22T23:17:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-22T23:17:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-22T23:17:54 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-05-22T23:17:54 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-05-22T23:17:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-22T23:17:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-22T23:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-22T23:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(W) 2025-05-22T23:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(W) 2025-05-22T23:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-22T23:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-22T23:17:54 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(W) 2025-05-22T23:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(I) 2025-05-22T23:17:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-22T23:17:54 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-22T23:17:54 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-22T23:17:54 - WebUI: Now listening on IP: *, port: 8080
+(N) 2025-05-22T23:18:28 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-22T23:18:28 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-23T14:17:53 - qBittorrent v5.0.4 started. Process ID: 149
+(N) 2025-05-23T14:17:53 - Using config directory: /config/qBittorrent
+(N) 2025-05-23T14:17:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-23T14:17:54 - Peer ID: "-qB5040-"
+(I) 2025-05-23T14:17:54 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-23T14:17:54 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-23T14:17:54 - Local Peer Discovery support: ON
+(I) 2025-05-23T14:17:54 - Peer Exchange (PeX) support: ON
+(I) 2025-05-23T14:17:54 - Anonymous mode: OFF
+(I) 2025-05-23T14:17:54 - Encryption support: ON
+(I) 2025-05-23T14:17:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-23T14:17:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-23T14:17:54 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-05-23T14:17:54 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-05-23T14:17:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-23T14:17:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-23T14:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-23T14:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(N) 2025-05-23T14:17:54 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-23T14:17:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-23T14:17:54 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-23T14:17:54 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-23T14:17:54 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-05-23T14:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(W) 2025-05-23T14:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(W) 2025-05-23T14:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-23T14:17:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-23T14:18:28 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-23T14:18:29 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-24T12:52:47 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2025-05-25T12:54:47 - Added new torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(I) 2025-05-25T12:54:48 - Detected external IP. IP: "41.90.40.242"
+(N) 2025-05-25T13:01:54 - Torrent download finished. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-25T14:21:51 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-25T14:22:11 - WebAPI login success. IP: ::ffff:192.168.100.3
+(N) 2025-05-25T17:50:37 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-25T20:24:55 - Added new torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-25T20:33:54 - Torrent download finished. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T15:26:46 - qBittorrent v5.0.4 started. Process ID: 144
+(N) 2025-05-26T15:26:46 - Using config directory: /config/qBittorrent
+(N) 2025-05-26T15:26:46 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-26T15:26:46 - Peer ID: "-qB5040-"
+(I) 2025-05-26T15:26:46 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-26T15:26:46 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-26T15:26:46 - Local Peer Discovery support: ON
+(I) 2025-05-26T15:26:46 - Peer Exchange (PeX) support: ON
+(I) 2025-05-26T15:26:46 - Anonymous mode: OFF
+(I) 2025-05-26T15:26:46 - Encryption support: ON
+(I) 2025-05-26T15:26:46 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-26T15:26:46 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-26T15:26:46 - Successfully listening on IP. IP: "172.17.0.4". Port: "TCP/6881"
+(I) 2025-05-26T15:26:46 - Successfully listening on IP. IP: "172.17.0.4". Port: "UTP/6881"
+(I) 2025-05-26T15:26:46 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-26T15:26:46 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-26T15:26:46 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-26T15:26:46 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-26T15:26:46 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(W) 2025-05-26T15:26:46 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-26T15:26:46 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(W) 2025-05-26T15:26:46 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T15:26:46 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-26T15:26:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-26T15:26:47 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-26T15:26:47 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-26T15:26:47 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-05-26T15:26:47 - Detected external IP. IP: "41.90.40.242"
+(N) 2025-05-26T15:27:12 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T15:27:13 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T18:53:52 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-05-26T18:53:52 - Using config directory: /config/qBittorrent
+(N) 2025-05-26T18:53:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-26T18:53:52 - Peer ID: "-qB5040-"
+(I) 2025-05-26T18:53:52 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-26T18:53:52 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-26T18:53:52 - Local Peer Discovery support: ON
+(I) 2025-05-26T18:53:52 - Peer Exchange (PeX) support: ON
+(I) 2025-05-26T18:53:52 - Anonymous mode: OFF
+(I) 2025-05-26T18:53:52 - Encryption support: ON
+(I) 2025-05-26T18:53:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-26T18:53:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-26T18:53:52 - Successfully listening on IP. IP: "172.17.0.4". Port: "TCP/6881"
+(I) 2025-05-26T18:53:52 - Successfully listening on IP. IP: "172.17.0.4". Port: "UTP/6881"
+(I) 2025-05-26T18:53:52 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-26T18:53:52 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-26T18:53:52 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(W) 2025-05-26T18:53:52 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-26T18:53:52 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(W) 2025-05-26T18:53:52 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-26T18:53:52 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(W) 2025-05-26T18:53:52 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T18:53:52 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-26T18:53:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-26T18:53:53 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-26T18:53:53 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-26T18:53:53 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-05-26T18:53:53 - Detected external IP. IP: "41.90.40.242"
+(N) 2025-05-26T18:54:17 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T18:54:17 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T21:40:06 - qBittorrent v5.0.4 started. Process ID: 143
+(N) 2025-05-26T21:40:06 - Using config directory: /config/qBittorrent
+(N) 2025-05-26T21:40:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-26T21:40:06 - Peer ID: "-qB5040-"
+(I) 2025-05-26T21:40:06 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-26T21:40:06 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-26T21:40:06 - Local Peer Discovery support: ON
+(I) 2025-05-26T21:40:06 - Peer Exchange (PeX) support: ON
+(I) 2025-05-26T21:40:06 - Anonymous mode: OFF
+(I) 2025-05-26T21:40:06 - Encryption support: ON
+(I) 2025-05-26T21:40:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-26T21:40:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-26T21:40:06 - Successfully listening on IP. IP: "172.17.0.4". Port: "TCP/6881"
+(I) 2025-05-26T21:40:06 - Successfully listening on IP. IP: "172.17.0.4". Port: "UTP/6881"
+(I) 2025-05-26T21:40:06 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-26T21:40:06 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-26T21:40:06 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(W) 2025-05-26T21:40:06 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-26T21:40:06 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-26T21:40:06 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T21:40:06 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-26T21:40:07 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-26T21:40:07 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-26T21:40:07 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-26T21:40:07 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-05-26T21:40:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(W) 2025-05-26T21:40:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(I) 2025-05-26T21:40:07 - Detected external IP. IP: "41.90.40.242"
+(N) 2025-05-26T21:40:30 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T21:40:31 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T21:55:26 - qBittorrent v5.0.4 started. Process ID: 142
+(N) 2025-05-26T21:55:26 - Using config directory: /config/qBittorrent
+(N) 2025-05-26T21:55:26 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-26T21:55:26 - Peer ID: "-qB5040-"
+(I) 2025-05-26T21:55:26 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-26T21:55:26 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-26T21:55:26 - Local Peer Discovery support: ON
+(I) 2025-05-26T21:55:26 - Peer Exchange (PeX) support: ON
+(I) 2025-05-26T21:55:26 - Anonymous mode: OFF
+(I) 2025-05-26T21:55:26 - Encryption support: ON
+(I) 2025-05-26T21:55:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-26T21:55:26 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-26T21:55:26 - Successfully listening on IP. IP: "172.17.0.3". Port: "TCP/6881"
+(I) 2025-05-26T21:55:26 - Successfully listening on IP. IP: "172.17.0.3". Port: "UTP/6881"
+(I) 2025-05-26T21:55:26 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-26T21:55:26 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-26T21:55:26 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(W) 2025-05-26T21:55:26 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-26T21:55:26 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-26T21:55:26 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(W) 2025-05-26T21:55:26 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-26T21:55:26 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-26T21:55:26 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-26T21:55:26 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-26T21:55:26 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-26T21:55:26 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-26T21:55:26 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-05-26T21:55:26 - Detected external IP. IP: "41.90.40.242"
+(N) 2025-05-26T21:55:51 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-26T21:55:51 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-27T14:56:29 - qBittorrent v5.0.4 started. Process ID: 141
+(N) 2025-05-27T14:56:29 - Using config directory: /config/qBittorrent
+(N) 2025-05-27T14:56:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-27T14:56:29 - Peer ID: "-qB5040-"
+(I) 2025-05-27T14:56:29 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-27T14:56:29 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-27T14:56:29 - Local Peer Discovery support: ON
+(I) 2025-05-27T14:56:29 - Peer Exchange (PeX) support: ON
+(I) 2025-05-27T14:56:29 - Anonymous mode: OFF
+(I) 2025-05-27T14:56:29 - Encryption support: ON
+(I) 2025-05-27T14:56:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-27T14:56:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-27T14:56:29 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-05-27T14:56:29 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-05-27T14:56:29 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-27T14:56:29 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-27T14:56:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(W) 2025-05-27T14:56:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(W) 2025-05-27T14:56:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-27T14:56:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-27T14:56:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(W) 2025-05-27T14:56:29 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-27T14:56:29 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-27T14:56:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-27T14:56:29 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-27T14:56:29 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-27T14:56:29 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-05-27T14:56:29 - Detected external IP. IP: "41.90.45.114"
+(N) 2025-05-27T14:56:53 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-27T14:56:54 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-27T16:49:54 - qBittorrent v5.0.4 started. Process ID: 142
+(N) 2025-05-27T16:49:54 - Using config directory: /config/qBittorrent
+(N) 2025-05-27T16:49:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-27T16:49:54 - Peer ID: "-qB5040-"
+(I) 2025-05-27T16:49:54 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-27T16:49:54 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-27T16:49:54 - Local Peer Discovery support: ON
+(I) 2025-05-27T16:49:54 - Peer Exchange (PeX) support: ON
+(I) 2025-05-27T16:49:54 - Anonymous mode: OFF
+(I) 2025-05-27T16:49:54 - Encryption support: ON
+(I) 2025-05-27T16:49:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-27T16:49:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-27T16:49:54 - Successfully listening on IP. IP: "172.17.0.4". Port: "TCP/6881"
+(I) 2025-05-27T16:49:54 - Successfully listening on IP. IP: "172.17.0.4". Port: "UTP/6881"
+(I) 2025-05-27T16:49:54 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-27T16:49:54 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-27T16:49:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-27T16:49:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-27T16:49:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(W) 2025-05-27T16:49:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-27T16:49:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-27T16:49:54 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-27T16:49:54 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-27T16:49:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-27T16:49:55 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-27T16:49:55 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-27T16:49:55 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-05-27T16:49:55 - Detected external IP. IP: "41.90.43.50"
+(N) 2025-05-27T16:50:18 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-27T16:50:20 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-27T23:39:19 - qBittorrent v5.0.4 started. Process ID: 144
+(N) 2025-05-27T23:39:19 - Using config directory: /config/qBittorrent
+(N) 2025-05-27T23:39:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-27T23:39:20 - Peer ID: "-qB5040-"
+(I) 2025-05-27T23:39:20 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-27T23:39:20 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-27T23:39:20 - Local Peer Discovery support: ON
+(I) 2025-05-27T23:39:20 - Peer Exchange (PeX) support: ON
+(I) 2025-05-27T23:39:20 - Anonymous mode: OFF
+(I) 2025-05-27T23:39:20 - Encryption support: ON
+(I) 2025-05-27T23:39:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-27T23:39:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-27T23:39:20 - Successfully listening on IP. IP: "172.17.0.4". Port: "TCP/6881"
+(I) 2025-05-27T23:39:20 - Successfully listening on IP. IP: "172.17.0.4". Port: "UTP/6881"
+(I) 2025-05-27T23:39:20 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-27T23:39:20 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(W) 2025-05-27T23:39:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(W) 2025-05-27T23:39:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(W) 2025-05-27T23:39:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(W) 2025-05-27T23:39:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(W) 2025-05-27T23:39:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-27T23:39:20 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(I) 2025-05-27T23:39:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-27T23:39:20 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-27T23:39:20 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-27T23:39:20 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-05-27T23:39:20 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(N) 2025-05-27T23:51:26 - WebAPI login success. IP: ::ffff:172.17.0.1
+(I) 2025-05-27T23:51:26 - Detected external IP. IP: "41.90.44.157"
+(N) 2025-05-27T23:51:26 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-27T23:51:53 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2025-05-27T23:59:42 - WebAPI login success. IP: ::ffff:192.168.100.3
+(N) 2025-05-27T23:59:59 - Torrent stopped. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-28T00:00:02 - Torrent stopped. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-28T00:00:08 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-28T08:23:47 - qBittorrent v5.0.4 started. Process ID: 142
+(N) 2025-05-28T08:23:47 - Using config directory: /config/qBittorrent
+(N) 2025-05-28T08:23:47 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-28T08:23:47 - Peer ID: "-qB5040-"
+(I) 2025-05-28T08:23:47 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-28T08:23:47 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-28T08:23:47 - Local Peer Discovery support: ON
+(I) 2025-05-28T08:23:47 - Peer Exchange (PeX) support: ON
+(I) 2025-05-28T08:23:47 - Anonymous mode: OFF
+(I) 2025-05-28T08:23:47 - Encryption support: ON
+(I) 2025-05-28T08:23:47 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-05-28T08:23:47 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-05-28T08:23:47 - Successfully listening on IP. IP: "172.17.0.2". Port: "TCP/6881"
+(I) 2025-05-28T08:23:47 - Successfully listening on IP. IP: "172.17.0.2". Port: "UTP/6881"
+(I) 2025-05-28T08:23:47 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-05-28T08:23:47 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv"
+(W) 2025-05-28T08:23:47 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv". Reason: "Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E06.Heaven.Is.a.Place.On.Earth.1080p.DSNP.WEB-DL.DUAL.DDPC2.0.H.264-VARYG.mkv): mismatching file size"
+(W) 2025-05-28T08:23:47 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv". Reason: "[Community] Lazarus - 05 [WEB 1080p Multi].mkv fast resume rejected. file_stat(/downloads/[Community] Lazarus - 05 [WEB 1080p Multi].mkv): mismatching file size"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Lazarus S01E06v2 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Shaboozey - A Bar Song (Tipsy).flac"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Lazarus.S01E08.Unforgettable.Fire.1080p.MAX.WEB-DL.DDP2.0.H.264-VARYG.mkv"
+(N) 2025-05-28T08:23:47 - Restored torrent. Torrent: "Kendrick_Lamar-Not_Like_Us-Single-24BIT-88KHZ-WEB-FLAC-2024-TiMES"
+(W) 2025-05-28T08:23:47 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E07 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(I) 2025-05-28T08:23:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu May 1 04:20:15 2025.
+(N) 2025-05-28T08:23:47 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2025-05-28T08:23:47 - Couldn't load WebUI translation for selected locale (en).
+(N) 2025-05-28T08:23:47 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-05-28T08:23:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv". Reason: "[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv fast resume rejected. file_stat(/downloads/[Erai-raws] Lazarus - 05 (REPACK) [1080p AMZN WEB-DL AVC EAC3][MultiSub][64D578BE].mkv): mismatching file size"
+(W) 2025-05-28T08:23:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv". Reason: "Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv fast resume rejected. file_stat(/downloads/Lazarus.S01E07.1080p.VIDIO.WEB-DL.JPN.AAC2.0.H.264.MSubs-ToonsHub.mkv): mismatching file size"
+(W) 2025-05-28T08:23:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv". Reason: "Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv fast resume rejected. file_stat(/downloads/Lazarus S01E05v3 MULTi 1080p WEB H.264 E-AC-3 -Tsundere-Raws (AMZN).mkv): mismatching file size"
+(N) 2025-05-28T08:31:22 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-28T08:31:23 - WebAPI login success. IP: ::ffff:172.17.0.1
+(N) 2025-05-28T08:31:47 - System wake-up event detected. Re-announcing to all the trackers...
+(N) 2025-05-28T10:47:42 - qBittorrent v5.0.4 started. Process ID: 144
+(N) 2025-05-28T10:47:42 - Using config directory: /config/qBittorrent
+(N) 2025-05-28T10:47:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-05-28T10:47:42 - Peer ID: "-qB5040-"
+(I) 2025-05-28T10:47:42 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-05-28T10:47:42 - Distributed Hash Table (DHT) support: ON
+(I) 2025-05-28T10:47:42 - Local Peer Discovery support: ON
+(I) 2025-05-28T10:47:42 - Peer Exchange (PeX) support: ON
+(I) 2025-05-28T10:47:42 - Anonymous mode: OFF
+(I) 2025-05-28T10:47:42 - Encryption support: ON

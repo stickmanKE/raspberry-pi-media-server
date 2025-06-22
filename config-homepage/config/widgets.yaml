@@ -1,0 +1,22 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/info-widgets/
+
+
+- resources:
+    label: Disk
+    expanded: true
+    disk:
+      - /mnt/hdd1
+
+- resources:
+    label: System
+    cpu: true
+    memory: true
+    cputemp: true
+    tempmin: 0 # optional, minimum cpu temp
+    tempmax: 100 # optional, maximum cpu temp
+    uptime: true
+    units: metric # only used by cpu temp
+    refresh: 3000 # optional, in ms
+

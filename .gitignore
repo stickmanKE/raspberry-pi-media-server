@@ -1,0 +1,6 @@
+*.log
+*.db
+.env
+config-*/logs/
+config-*/cache/
+config-*/backups/

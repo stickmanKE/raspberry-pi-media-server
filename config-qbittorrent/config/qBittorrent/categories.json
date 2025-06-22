@@ -1,0 +1,17 @@
+{
+    "games": {
+        "save_path": "/games"
+    },
+    "movies": {
+        "save_path": ""
+    },
+    "music": {
+        "save_path": ""
+    },
+    "series": {
+        "save_path": ""
+    },
+    "software": {
+        "save_path": "/software"
+    }
+}
